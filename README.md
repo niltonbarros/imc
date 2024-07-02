@@ -1,5 +1,11 @@
 Tela de Splash
 
+![image](https://github.com/niltonbarros/imc/assets/78621687/c6a47b25-87d6-4f03-a7d9-8372e700ef12)
+![image](https://github.com/niltonbarros/imc/assets/78621687/38c39f16-f48f-48b4-84cf-98b05289ec9a)
+
+
+
+
 1- Inserida a dependência: 
 ![image](https://github.com/niltonbarros/imc/assets/78621687/cd8eb250-e0a0-4a67-8851-a5638a7d1ce0)
 
